@@ -5,7 +5,7 @@ body {
     background-image: url('arkaplan.png');
     background-repeat: no-repeat;
     background-position: center top;
-    background-size: 1500px auto; /* genişlik sabit, yükseklik orantılı */
+    background-size: cover;
     background-attachment: fixed;
     color: #1e1e1e;
     transition: background 0.5s, color 0.5s, background-color 0.5s, box-shadow 0.5s;
